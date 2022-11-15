@@ -1,4 +1,4 @@
-package BFS;
+package bfs;
 
 // Definition for a binary tree node.
 public class TreeNode {
